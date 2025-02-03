@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 //Ejemplo
+
+Sistema de registro 2
